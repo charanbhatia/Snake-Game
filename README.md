@@ -32,4 +32,5 @@ Future updates to this project may include:
 
 - Implementation of backend functionalities using Express.js to enable multiplayer support or high score tracking.
 - Additional game features such as different levels, themes, or power-ups.
+- I will also work on the UI and cool animation for the snake game .
 - Bug fixes and performance improvements.
